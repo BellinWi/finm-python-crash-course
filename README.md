@@ -1,6 +1,6 @@
 FINM Python Introduction and Review
 ==============================================
-
+# Hello!
 # Summary
 
 The FINM August Review is a series of lectures designed for incoming students to prepare for starting with the Financial Mathematics program. The Python Introduction and Review portion is designed to be a refresher or short introduction to the Python programming language. No prior experience is necessary. Even though some incoming students may have extensive prior experience with Python, this review is designed for those with little experience. The aim is to introduce you to what you need to know for the upcoming FINM program. The academic lectures of September Launch and autumn quarter will assume students have mastered the concepts covered throughout August Review, and so it’s critical that all students enter the year with a solid grasp of this material. 
